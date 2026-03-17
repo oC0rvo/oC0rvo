@@ -1,15 +1,15 @@
 # **👋Hi There**
-*I'm Lucas Cabral, a cybersecurity professional passionate about technology and programming. I am currently seeking an opportunity in the field of cybersecurity and Python programming.*
+*I'm Lucas Cabral, a professional passionate about technology and programming. I am currently seeking an opportunity in the field of Back-End Developer, Unity developer and C# programmer.*
 *I'm also interested in collaborating on hackathons, CTFs, and game jams.*
 
 # **💻My story with tech**
 
-*I became interested in the technology field from a very young age. Since then, I've spent years studying and falling more in love with this field every day, but it was in college that I discovered the area that captivated me: cybersecurity.
-It was during my cybersecurity course (now my favorite) that I discovered that the technology market was much bigger than just coding and development, a world where the limit was my curiosity. I completely fell in love with this market, and every day I discover something new, which motivates me to keep learning.*</br>
+*I became interested in the technology field from a very young age. Since then, I've spent years studying and falling more in love with this field every day.
+It was during college that I discovered that the technology market was much bigger than just coding and development, a world where the limit was my curiosity. I completely fell in love with this market, and every day I discover something new, which motivates me to keep learning.*</br>
 
 *But of course, the real reason for going to college for technology couldn't be more obvious: Games.</br>*
 
-*Games have always been a part of my life, from tabletop RPGs to spending hours during high school playing League of Legends, Counter-Strike, and of course, Battlefield. I currently maintain an interest in game development as a hobby, along with running RPG sessions and my passion for music (I'm currently a pianist in a band).*
+*Games have always been a part of my life, from tabletop RPGs to spending hours during high school playing League of Legends, Counter-Strike, and of course, Battlefield. I currently maintain an interest in game development, along with running RPG sessions and my passion for music (I'm currently a pianist in a band).*
 
 # **💾Tech stack**
 
